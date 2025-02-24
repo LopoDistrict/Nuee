@@ -10,13 +10,7 @@ This project is basically an a rough application of this method into a 3D enviro
 
 
 # Exemple video
-<p align="center">
-  <video src="exemple.mp4" width="500px"></video>
-</p>
-
-<video src="exemple.mp4" width="320" height="240" controls></video>
-
-![video](exemple.mp4)
+https://github.com/user-attachments/assets/63179bb6-09d1-49dd-9100-678dac0b4371
 
 
 # Use 
