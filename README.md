@@ -8,6 +8,17 @@ A Really impressive algorithm for 1986.
 
 This project is basically an a rough application of this method into a 3D environnement.
 
+
+# Exemple video
+<p align="center">
+  <video src="exemple.mp4" width="500px"></video>
+</p>
+
+<video src="exemple.mp4" width="320" height="240" controls></video>
+
+![video](exemple.mp4)
+
+
 # Use 
 
 ### You have to install the packages
